@@ -1,0 +1,5 @@
+name: GlobalUUIDCache
+main: dank.memes.uuidcache.GlobalUUIDCachePlugin
+version: ${project.version}
+author: vemacs
+description: Readds global UUID cache into modern Spigot. Original source from SpigotMC.
